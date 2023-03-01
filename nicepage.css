@@ -42900,12 +42900,20 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 200px;
   height: 178px;
   margin: 0 auto 0 0;
+  background-image: url(images/manlogo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: inherit;
 }
 
 .u-footer .u-shape-2 {
   width: 200px;
   height: 178px;
   margin: -178px 0 0 auto;
+  background-image: url(images/leedslogo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: inherit;
 }
 @media (max-width: 1199px) {
   .u-footer .u-text-1 {
