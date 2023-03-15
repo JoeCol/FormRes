@@ -30269,7 +30269,7 @@ section.u-grey-80:before,
 .u-container-layout.u-container-layout.u-grey-80:before,
 .u-table-alt-grey-80 tr:nth-child(even) {
   color: #ffffff;
-  background-color: #AAAAAA;
+  background-color: #333333;
 }
 .u-button-style.u-grey-80,
 .u-button-style.u-grey-80[class*="u-border-"] {
@@ -42847,7 +42847,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  width: 100px;
+  width: 200px;
   margin: 22px auto 0 0;
 }
 
