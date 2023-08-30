@@ -6,6 +6,22 @@
   display: flex;
 }
 
+.locationdiv {
+  display: inline-flex;
+}
+
+.upmap {
+  width: 25%;
+}
+
+.upfp {
+  width: 74%;
+}
+
+.upimages {
+  height: 450px;
+}
+
 .personImg {
   height: 150px;
   align-self: flex-start;
