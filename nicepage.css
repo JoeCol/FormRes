@@ -6,6 +6,11 @@
   display: flex;
 }
 
+li
+{
+  padding-bottom: 15px;
+}
+
 .locationdiv {
   display: inline-flex;
 }
